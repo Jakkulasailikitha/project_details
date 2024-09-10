@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding:0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.amazon{
+    height: 8rem;
+    width: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: baseline;
+    margin: auto;
+}
+.image img{
+    padding: 0px;
+    width:15rem;
+    height: 7rem;
+    margin-left: -2rem;
+}
+
+.sp{
+   margin-top: -0.7rem;
+   margin-left: -4.4rem;
+   
+}
+.s {
+    width:296px;
+    /* height:300px ; */
+    padding: 20px 26px;
+     border: 1px solid black;
+     border-radius: 4px;
+     margin-left: 28rem;
+     display: grid;
+    
+ }
+ .your{
+    margin-top: 2rem;
+ }
+ .insides{
+     display: grid;
+     gap:1rem;
+ }
+ input{
+     height: 2rem;
+     border-radius: 6px;
+     border: 1px solid;
+     
+ 
+ }
+ #but{
+     background-color: #ffbb00f8;
+     height: 2rem;
+     border-radius: 6px;
+     border: none;
+ 
+ }
+ #but:hover{
+    cursor: pointer;
+    background-color: #e5b403f8;
+    
+ }
+ .need{
+     text-decoration: none;
+     color: blue;
+     font-size: small;
+ }
+ .need:hover{
+     text-decoration: underline;
+     color: brown;
+ }
+ footer{
+    width:20rem;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 29rem;
+    margin-top: 1rem;
+    color: blue;
+    font-size: small;
+}
+.add{
+    margin-top: 1rem;
+    margin-left: 29rem;
+
+}
+.mobile{
+    display: flex;
+    gap: 0.5rem;
+   
+}
+input:hover{
+    box-shadow: 2px 2px 3px 3px rgb(182, 233, 251);
+
+}
+

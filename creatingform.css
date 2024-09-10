@@ -1,0 +1,26 @@
+.mainbox{
+    width:320px;
+    border:2px solid red;
+    padding:15px;
+    margin:auto;
+}
+.subbox{
+    width:300px;
+    border:1px solid red;
+    padding:5px;
+}
+.but{
+    width:55px;
+    border:1px solid red;
+    margin: auto;
+    padding: 10px;
+}
+table{
+    border-collapse: collapse;
+    width:100%;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}

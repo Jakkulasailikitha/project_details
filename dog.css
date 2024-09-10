@@ -1,0 +1,37 @@
+.image{
+    width :50px;
+    height:200px;
+    margin: 0 40%;
+    
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width: 400px;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* margin-top: 50px; */
+}
+/*}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    
+}
+.buttons{
+    display: flex;
+    justify-content:center;
+}
+button{
+    margin: 50px;
+    border: 3px solid blue;
+    font-size: 25px;
+}
+.ten{
+    background-color: blue;
+    background-size: 100px;
+} */ 
